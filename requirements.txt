@@ -1,5 +1,5 @@
 streamlit
 numpy
 matplotlib
-tensorflow==2.21.0
+tensorflow
 gdown
