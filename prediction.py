@@ -3,12 +3,27 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.models import load_model
 import tensorflow as tf
+import os
+import gdown
 
 # Load model
 
-model = load_model('model.keras')
+@st.cache_resource
+def load_my_model():
+    
 
+    # URL Google Drive file
+    drive_url = "https://drive.google.com/file/d/1EyVNRWcEufZKanjc2am1gukN-Dn451SA/view?usp=sharing"
+    local_path = "model.keras"
 
+    # download hanya kalau file belum ada
+    if not os.path.exists(local_path):
+        gdown.download(drive_url, local_path, quiet=False)
+
+    model = tf.keras.models.load_model(local_path)
+    return model
+
+model = load_my_model()
 
 def run():
 
