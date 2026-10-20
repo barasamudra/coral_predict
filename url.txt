@@ -1,0 +1,11 @@
+url dataset:
+https://www.kaggle.com/datasets/aneeshdighe/corals-classification/data
+
+url model:
+https://drive.google.com/file/d/1EyVNRWcEufZKanjc2am1gukN-Dn451SA/view?usp=sharing
+
+url data inference:
+https://earth.org/what-is-coral-bleaching/
+
+url streamlit deployment:
+https://coralpredict.streamlit.app/
