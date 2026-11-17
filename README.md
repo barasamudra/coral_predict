@@ -1,3 +1,30 @@
+# ** English **
+
+# Computer Vision Project
+**Streamlit app** result [here](https://coralpredict.streamlit.app/)
+
+In this project, coral reef image classification (bleached vs. non-bleached) will be conducted using deep learning.
+
+Dataset URL:
+
+https://www.kaggle.com/datasets/aneeshdighe/corals-classification/data
+
+Problem Statement:
+
+Coral reefs play a vital role in maintaining the balance of marine ecosystems by providing coastal protection, habitat, and food for marine species (Yuan et al., 2024). However, phenomena such as climate change and rising sea temperatures leave these ecosystems vulnerable to bleaching (Hughes et al., 2003, 2017), where corals experience stress and expel their symbiotic algae (https://coral.org/blog/what-is-coral-bleaching-and-why-should-you-care/). This disrupts the broader marine ecosystem. By identifying coral bleaching, stakeholders can intervene early and plan timely restoration efforts. Automating bleaching classification using deep learning is expected to streamline and support these restoration planning efforts.
+
+References:
+
+- Hughes, T. P., Baird, A., & Connolly, S. R. (2003). Climate change, human impacts, and the resilience of coral reefs. Science, 301, 929–933. https://doi.org/10.1126/science.108504
+
+- Hughes, T. P., Kerry, J. T., Álvarez-Noriega, M., Álvarez-Romero, J. G., Anderson, K. D., Baird, A. H., Babcock, R. C., Beger, M., Bellwood, D. R., Berkelmans, R., Bridge, T. C., Butler, I. R., Byrne, M., Cantin, N. E., Comeau, S., Connolly, S. R., Cumming, G. S., Dalton, S. J., Diaz-Pulido, G., … Wilson, S. K. (2017). Global warming and recurrent mass bleaching of corals. Nature, 543(7645), 373–377. https://doi.org/10.1038/nature21707
+
+- Yuan, M. H., Lin, K. T., Pan, S. Y., & Yang, C. K. (2024). Exploring coral reef benefits: A systematic SEEA-driven review. In Science of the Total Environment (Vol. 950). Elsevier B.V. https://doi.org/10.1016/j.scitotenv.2024.175237
+
+- https://coral.org/blog/what-is-coral-bleaching-and-why-should-you-care/
+
+# ** Indonesia **
+
 # Computer Vision Project
 
 **Streamlit app** result [here](https://coralpredict.streamlit.app/)
