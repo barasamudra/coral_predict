@@ -1,4 +1,4 @@
-# ** English **
+# **English**
 
 # Computer Vision Project
 **Streamlit app** result [here](https://coralpredict.streamlit.app/)
@@ -23,7 +23,7 @@ References:
 
 - https://coral.org/blog/what-is-coral-bleaching-and-why-should-you-care/
 
-# ** Indonesia **
+# **Indonesia**
 
 # Computer Vision Project
 
